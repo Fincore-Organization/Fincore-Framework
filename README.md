@@ -84,6 +84,23 @@ Community feedback, design discussions, issue reports, documentation improvement
 
 ---
 
+## 📖 Before You Start
+
+This project is guided by a set of engineering principles that define **how** we build software—not just **what** we build.
+
+Every contributor is encouraged to read the project philosophy before contributing.
+
+## 🤝 Contributing
+
+Before opening an issue or submitting a pull request, please read:
+
+- [PROJECT_PHILOSOPHY.md](PROJECT_PHILOSOPHY.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+
+We value thoughtful engineering over rushed development. Every contribution should align with the project's philosophy.
+
+
 ## Documentation
 
 Additional project documentation can be found in the following documents:
@@ -98,5 +115,6 @@ Additional project documentation can be found in the following documents:
 - [`CHANGELOG.md`](./CHANGELOG.md)
 - [`CLA.md`](./CLA.md)
 - [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)
+- [LICENSE](LICENSE) | Apache License 2.0 |
 
 As the project evolves, these documents will provide detailed guidance on architecture, engineering principles, governance, contribution workflow, coding standards, and release planning.
