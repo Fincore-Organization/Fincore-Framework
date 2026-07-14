@@ -1,3 +1,5 @@
+← Back to [README.md](README.md)
+
 # Project Philosophy
 
 > *"Great software is not built by writing more code. It is built by making better decisions."*
